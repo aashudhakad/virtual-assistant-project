@@ -8,6 +8,7 @@ Ask it questions (“What’s the day?”, “Search IIIT Gwalior on YouTube”)
 ## 🌐 Live Demo
 
 Check out the live version of the assistant here: [Live Demo](https://virtual-assistant-project-s7gt.onrender.com)
+works proper in chrome only
 
 ---
 
