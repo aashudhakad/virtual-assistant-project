@@ -5,6 +5,12 @@ Ask it questions (“What’s the day?”, “Search IIIT Gwalior on YouTube”)
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live version of the assistant here: [Live Demo](https://virtual-assistant-project-s7gt.onrender.com)
+
+---
+
 ## 📂 Repository Structure
 
 ```
@@ -132,5 +138,5 @@ This project is open‑source and available under the [MIT License](LICENSE).
 ---
 
 > Built with ❤️ by Aayush Dhakad\
-> Feel free to drop me a line at `dkdayush@gmail.com` if you have any questions!
+> Feel free to drop me a line at `aayush@example.com` if you have any questions!
 
