@@ -139,5 +139,5 @@ This project is open‑source and available under the [MIT License](LICENSE).
 ---
 
 > Built with ❤️ by Aayush Dhakad\
-> Feel free to drop me a line at `aayush@example.com` if you have any questions!
+> Feel free to drop me a line at `dkdaayush@gmail.com` if you have any questions!
 
